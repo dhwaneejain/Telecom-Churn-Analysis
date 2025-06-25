@@ -27,13 +27,6 @@ A telecom customer dataset containing features like customer demographics, servi
 - Heatmap of feature correlation
 - Countplots and histograms to explore categorical and continuous variables
 
-## 📊 Sample Visuals
-
-![Churn Distribution](images/churn_distribution.png)
-![Contract Type vs Churn](images/contract_vs_churn.png)
-
-> *(Replace above with actual outputs from your notebook.)*
-
 ## 💡 Insights
 
 - Customers with month-to-month contracts are more likely to churn.
